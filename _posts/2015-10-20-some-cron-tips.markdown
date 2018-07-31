@@ -1,7 +1,7 @@
 ---
 published: true
 title: Some cron tips
-layout: post
+layout: default
 ---
 * Absolute path to executable (since env may not contain PATH)
 * Test with sh instead of bash
