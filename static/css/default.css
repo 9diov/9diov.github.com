@@ -1,0 +1,33 @@
+body
+{
+	margin-top: 20px;
+  font-size: 2em;
+  font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+}
+#sidebar_nav
+{
+	margin-top: 80px;
+}
+
+#sidebar_nav ul
+{
+	list-style-type: none;
+}
+
+#sidebar_nav a
+{
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+div#author-date
+{
+  font-style: italic;
+	color: #777;
+}
+
+div.codehilite
+{
+	font-family: 'Inconsolata', Courier, monospace;
+  font-size: 0.8em;
+}

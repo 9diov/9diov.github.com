@@ -2,8 +2,27 @@
 <html>
 	<head>
     <title>{{ page.title }}</title>
+		<link rel="stylesheet" href="/static/css/normalize.css" />
+		<link rel="stylesheet" href="/static/css/skeleton.css" />
+		<link rel="stylesheet" href="/static/css/default.css" />
+		<link rel="stylesheet" href="/static/css/codehilite.css" />
+		<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Palatino|Inconsolata' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
-    {{ content }}
+		<div class="container">
+			<div class="two columns sidebar">
+        <nav id="sidebar_nav">
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/archive">Archive</a></li>
+          </ul>
+        </nav>
+			<div class="ten columns content">
+        <header><h1>{{ page.tile }}</h1></header>
+        {{ contents }}
+			</div>
+		</div>
 	</body>
 </html>
