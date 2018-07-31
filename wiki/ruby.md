@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ruby
+---
+
 ## Quickly add assertion methods
 require 'test/unit/assertions'
 include Test::Unit::Assertions
