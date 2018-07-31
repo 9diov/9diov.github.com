@@ -8,7 +8,7 @@ require 'test/unit/assertions'
 include Test::Unit::Assertions
 
 ## Debugging
-Get NewRelic debugging script from [https://github.com/newrelic/rpm/blob/master/bin/nrdebug](here) then run:
+Get NewRelic debugging script from [here](https://github.com/newrelic/rpm/blob/master/bin/nrdebug) then run:
 ruby nrdebug <pid>
 
 ## Parameters assignments
