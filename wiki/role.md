@@ -2,6 +2,7 @@
 layout: default
 title: Role
 ---
+# Role
 
 **Role** is the set of behaviors associated with an identity which a person uses unconsciously. Examples of roles are "father", "teacher", "guardian", "protector", etc.
 

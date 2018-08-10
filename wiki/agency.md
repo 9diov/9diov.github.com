@@ -2,6 +2,7 @@
 layout: default
 title: Agency
 ---
+# Agency
 
 **Agency** is the ability to take actions which one's beliefs indicate would lead to the accomplishment of one's goals.
 
