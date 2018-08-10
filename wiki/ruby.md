@@ -2,6 +2,9 @@
 layout: default
 title: Ruby
 ---
+# Ruby
+
+Ruby is a highly dynamic programming language that borrows concepts from [Perl](/wiki/perl) and [Smalltalk](/wiki/smalltalk).
 
 ## Quickly add assertion methods
 
